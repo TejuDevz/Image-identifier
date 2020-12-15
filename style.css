@@ -1,0 +1,23 @@
+body {
+  background-color: slateblue;
+  color: white;
+}
+
+.heading {
+  width: 80%;
+  font-size: 22px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.object_names,
+#result_objectName,
+#result_objectAccuracy {
+  color: greenyellow;
+}
+
+#webcam {
+  border: 1px solid black;
+  border-style: dashed;
+  width: 350px;
+  height: 300px;
+}
